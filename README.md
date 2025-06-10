@@ -15,7 +15,7 @@ This project does **not** include JavaScript or dynamic functionality. Its main 
 
 - HTML5  
 - CSS3  
-- [Bootstrap 5](https://getbootstrap.com/) (via CDN)
+- [Bootstrap 5](https://getbootstrap.com/)
 
 ## 🎯 Purpose
 
