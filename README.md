@@ -29,6 +29,12 @@ This exercise was created as part of a front-end design assignment to:
 
 You can open the `index.html` file in your browser to view the page locally.
 
-## 📄 License
+## 📸 Screenshots
 
-This project is for educational and non-commercial use only.
+![Home Page](/screenshots/index.png)  
+
+## ✍️ Author
+
+Noelia Cegarra Castillo
+
+[GitHub Profile](https://github.com/ccaileon) | [Linkedin](https://www.linkedin.com/in/noelia-cegarra-castillo/)
