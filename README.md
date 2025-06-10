@@ -31,7 +31,7 @@ You can open the `index.html` file in your browser to view the page locally.
 
 ## 📸 Screenshots
 
-![Home Page](/screenshots/index.png)  
+![Home Page](/screenshots/index.PNG)  
 
 ## ✍️ Author
 
